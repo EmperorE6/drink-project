@@ -1,0 +1,70 @@
+body{
+    background-color: aquamarine;
+}
+.header{
+    text-align: center;
+    margin-top: 50px;
+   margin-bottom: 50px;
+
+}
+.h1{
+    font-size: 32px;
+    font-weight: 600;
+}
+.undertitle{
+    font-size: 18px;
+    font-weight: 500;
+}
+img {
+    height: 300px;
+    width: 350px;
+    /* image-rendering: pixelated; */
+}
+
+.drink{
+width: 100%;
+display: flex;
+justify-content:  space-between;
+
+
+}
+.margaritaTitle{
+font-size:25px;
+font-weight: 600;
+text-align: center;
+margin-bottom:15px;
+}
+.margaritaInst{
+    width:300px;
+    text-align: center; 
+}
+.negroniTitle{
+    font-size: 25px;
+    font-weight: 600;
+    text-align: center;
+margin-bottom:15px;
+}
+.negroniInst{
+    width:300px;
+    text-align: center;
+}
+.rumTitle{
+    font-size: 25px;
+    font-weight: 600;
+    text-align: center;
+margin-bottom:15px;
+}
+.rumInst{
+    width:300px;
+    text-align: center;
+}
+.ginTitle{
+    font-size: 25px;
+    font-weight: 600;
+    text-align: center;
+margin-bottom:15px;
+}
+.ginInst{
+    width:300px;
+    text-align: center;
+}
